@@ -1,0 +1,41 @@
+.border {
+    border: 2px solid;
+    color:black;
+    margin: auto;
+    height: 300px;
+    width: 650px;
+    background-color:white;
+    font-size:20px;
+}
+
+.border1 {
+    background-color:orangered;
+    border: 3px solid;
+    color: black;
+    margin: auto;
+    height: 450px;
+    width: 800px;
+    text-align: center;
+    font-size: 18px;
+}
+.border input {
+    vertical-align: middle;
+    background-color:whitesmoke;
+    color:black;
+}
+    
+.one{
+    margin-right: 10px;
+}
+.two{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.style{
+    float: right;
+}
+.input{
+    margin-right:10px;
+    text-align:right;
+}
